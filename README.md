@@ -2,7 +2,7 @@
 
 A command-line Wordle clone written in Python.  
 This version retrieves words from the WordGameDB API, validates user input, and provides colorized feedback using Wordle-style rules.
-This project uses the WordGameDB API for educational and non-commercial purposes.
+This project uses the WordGameDB.com API for educational and non-commercial purposes.
 
 
 ## Features
