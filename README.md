@@ -23,10 +23,9 @@ This project uses the WordGameDB.com API for educational and non-commercial purp
 - `requests` library
 
 Install dependencies:
-
 ```bash
 pip install requests
-
+```
 ## How to Run
 
 Clone the repository:
@@ -39,4 +38,4 @@ Install dependencies:
 pip install requests
 
 Run the game:
-python wordle.py
+python Wordle.py
